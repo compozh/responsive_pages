@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/HelveticaNeue.eot');
+    src: url('../fonts/HelveticaNeue.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/HelveticaNeue.woff2') format('woff2'),
+    url('../fonts/HelveticaNeue.woff') format('woff'),
+    url('../fonts/HelveticaNeue.ttf') format('truetype'),
+    url('../fonts/HelveticaNeue.svg#HelveticaNeue') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NeoTech';
+    src: url('../fonts/NeoTech-MediumItalic.eot');
+    src: url('../fonts/NeoTech-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/NeoTech-MediumItalic.woff2') format('woff2'),
+    url('../fonts/NeoTech-MediumItalic.woff') format('woff'),
+    url('../fonts/NeoTech-MediumItalic.ttf') format('truetype'),
+    url('../fonts/NeoTech-MediumItalic.svg#NeoTech-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
